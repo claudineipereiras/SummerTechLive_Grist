@@ -1,4 +1,4 @@
-![image](https://github.com/claudineipereiras/SummerTechLive_Grist/assets/91049255/451f273e-c937-4304-acee-85ac82825b7f)# SummerTechLive_Grist
+# SummerTechLive_Grist
 This is a demonstration of the solution used for the Summer Tech Live I have worked using Web Solution Grist and Make integration for a client.
 The files contain a data set from accident events for student purposes. The real client information was not been used for privacy purposes.
 
